@@ -1,1 +1,5 @@
 Welcome to the version control
+
+
+GIT is for tracking changes 
+GIT is DVCS
